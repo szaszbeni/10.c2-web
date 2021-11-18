@@ -3,11 +3,8 @@ body{
     background-image: url(hatter.jpg);
     border: 10px solid gray;
 }
-{
-    margin:auto;
-    border-style: none solid;
-	border-color:gray;
-    border-width: 20px;
+div{
+    text-align:right
 }
 .ritka{
     
